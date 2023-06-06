@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=z3r0_02.visitor-badge&left_text=Hi&left_color=grey&right_color=green)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=z3r0_02.visitor-badge&left_text=Hi&left_color=grey&right_color=green) -->
 
 ### Greetings, gentlemen 🍌
 <hr>

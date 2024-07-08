@@ -3,7 +3,7 @@
 ### Greetings, gentlemen 🍌
 <hr>
 
-🌱 I’m currently studying programming languages
+🌱 I’m currently learning programming languages
 
 I'm learning:
 <p align="left">

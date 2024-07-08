@@ -3,7 +3,7 @@
 ### Greetings, gentlemen 🍌
 <hr>
 
-🌱 I’m currently studying at <a href="https://www.42prague.com">42 Prague</a>, in this big, big, tall building!
+🌱 I’m currently studying programming languages
 
 I'm learning:
 <p align="left">
@@ -11,14 +11,14 @@ I'm learning:
     <img src="https://skillicons.dev/icons?i=vscode,c,js,html,css" />
   </a>
 </p>
-And hoping to learn much, much more than this. So that one day, I can stand proudly and say, that I understand them all.
+And hoping to learn much, much more than this.
 <hr>
 
 <h4>A few things about me, maybe?</h4>
 
- - I'm 22, born in the year of a 🐉
+ - I'm 23, born in the year of a 🐉
  - I can get quite competitive and obsessed with the things I'm currently doing 💨
- - But I can get pretty lazy, and spend the day in bed  💤
+ - But sometimes I can get lazy, and spend the day in bed  💤
  - My favourite things are: asian food 🍛, travelling 🛩️, gaming 🎮 and sports 🏸
 <hr>
 
@@ -27,12 +27,6 @@ And hoping to learn much, much more than this. So that one day, I can stand prou
 <p align="left">
  <a href="https://discordapp.com/users/225088972865536000">
   <img src="https://badges.aleen42.com/src/discord.svg" />
- </a>
-</p>
-
-<p align="left">
- <a href="https://t.me/z3ro_02">
-  <img src="https://badges.aleen42.com/src/telegram.svg" />
  </a>
 </p>
 

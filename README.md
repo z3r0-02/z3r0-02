@@ -9,7 +9,7 @@
 <hr>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,c,js,nodejs,html,css,mysql,kotlin,godot,cypress" />
+    <img src="https://skillicons.dev/icons?i=vscode,c,js,nodejs,html,css,nextjs,react,mysql,sqlite,kotlin,godot,cypress,postman" />
   </a>
 </p>
 <hr>
@@ -21,7 +21,10 @@
  - 🔍 Detail-oriented, curious, and always looking for ways to improve
  - Always eager to learn new things and take on new challenges 💪
  - Big fan of Asian cuisine 🍛, love travelling 🛩️, gaming enthusiast🎮 and sports lover🏸
+   
+All time fav games: NieR:Automata, Expedition 33, Mafia, Ghost of Tsushima
 <hr>
+
 
 Find me on:
 
